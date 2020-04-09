@@ -1,0 +1,17 @@
+{
+  "name": "klodplord",
+  "displayName": "klodplord",
+  "expo": {
+    "name": "klodplord",
+    "slug": "klodplord",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
